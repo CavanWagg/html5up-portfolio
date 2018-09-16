@@ -348,6 +348,18 @@ pre code {
   text-align: right;
 }
 
+p.work-location {
+  margin-bottom: 0px;
+  font-style: italic;
+}
+h4.work-role {
+  margin-bottom: 0.2em;
+}
+.skills {
+  display: flex;
+  justify-content: space-around;
+}
+
 /* Container */
 
 .container {
