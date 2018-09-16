@@ -355,6 +355,9 @@ p.work-location {
 h4.work-role {
   margin-bottom: 0.2em;
 }
+p.work-duration {
+  margin-bottom: 0.2em;
+}
 .skills {
   display: flex;
   justify-content: space-around;
